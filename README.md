@@ -1,0 +1,1 @@
+A simple rule-based Python chatbot that responds to user inputs like "hello", "how are you", and "bye" with predefined replies. Demonstrates basic use of if-elif statements, functions, loops, and input/output for interactive conversation.
